@@ -7,6 +7,7 @@
   --color2: #ffffd3;
   --color3: #ab96db;
   font-size: 20px;
+  scroll-behavior: smooth;
 }
 body {
   margin: 0;
